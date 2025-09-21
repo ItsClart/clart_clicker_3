@@ -1,2 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+
+# Environments
 .venv/
+.uv/
+
+# Packaging
+build/
+dist/
+
+# Editors
 .vscode/
+
+# Tooling
+.python-version
